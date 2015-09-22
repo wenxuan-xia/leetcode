@@ -1,2 +1,2 @@
 # leetcode
-Record Leetcode History
+Record Leetcode History, Keep What I Did.
