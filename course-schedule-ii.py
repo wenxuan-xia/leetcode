@@ -31,7 +31,6 @@ class Solution(object):
                     cs[item[0]] -= 1
                     if cs[item[0]] == 0:
                         PL.append(item[0])
-
             i = i + 1
 
         if remain == 0:
